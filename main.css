@@ -62,7 +62,11 @@ padding-right: 174.600px;
     }
 }
 
-
+@media (max-width: 1200px) {
+    #trend {
+      display: none;
+    }
+}
 
 #header .text_white {
   color: white;
